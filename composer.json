@@ -1,5 +1,5 @@
 {
-    "name": "dmkit/phalcon-jwt-auth",
+    "name": "vishalsingh-cedcoss/phalcon-jwt-auth",
     "description": "A simple JWT middleware for Phalcon Micro to handle stateless authentication",
     "keywords": ["phalcon", "jwt", "authentication"],
     "type": "library",
